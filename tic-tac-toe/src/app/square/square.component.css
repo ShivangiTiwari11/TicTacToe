@@ -1,0 +1,13 @@
+.success{
+    color: black;
+    background-color: green;
+    font-size: 100px;
+    padding: 15px 38px;
+}
+
+.danger{
+    color:black;
+    background-color:red;
+    font-size: 100px;
+    padding: 15px 32px;
+}
